@@ -386,8 +386,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-| **Manabendu karfa** | *Archisman Rana** | **BhagyaShri Patil** |
-| Lead Developer | ML Developer | UI/UX Designer |
+| **Manabendu karfa** -> **Lead Developer** | **Archisman Rana** -> **AI/ML Developer** | **BhagyaShri Patil** -> **UI/UX Developer** |
 
 </div>
 
