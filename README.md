@@ -385,10 +385,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 <div align="center">
-|:---:|:---:|:---:|
+
 | **Manabendu karfa** | *Archisman Rana** | **BhagyaShri Patil** |
 | Lead Developer | ML Developer | UI/UX Designer |
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com) |
 
 </div>
 
