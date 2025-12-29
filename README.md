@@ -11,9 +11,8 @@
 
 **Transform complex ERP data into instant business insights with natural language AI**
 
-[Demo](#-demo) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Architecture](#-architecture)
+[Features](#-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Architecture](#-architecture)
 
-![AskERP Demo](https://via.placeholder.com/800x400/1e293b/3b82f6?text=AskERP+Demo+Screenshot)
 
 </div>
 
